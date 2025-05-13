@@ -12,7 +12,7 @@ In this folder, you will find my Power BI projects, which focus on creating inte
   - Interactive visuals with month, product, and region-based filters.
   - Key KPIs: Revenue, Average Price per Unit, and Units Sold.
 
-> For more Power BI projects, visit the **[Power BI Projects folder](PowerBi_Projects)**.
+> For more Power BI projects, visit the **[Power BI Projects folder](Power_BI_Projects)**.
 
 ### 🔹 **Tableau Projects**
 This folder includes my Tableau projects, showcasing the use of Tableau's interactive features, powerful visualizations, and storytelling capabilities.
