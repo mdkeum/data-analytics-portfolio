@@ -30,11 +30,21 @@ Welcome to the **Tableau Projects** folder. This collection features various das
     - `dashboard-overview.png` – Full dashboard overview
     - `kpi-interaction.gif` – GIF showing KPI interactivity
 
+### 3. **World Population Analysis by Country 2025 Demographics Dashboard**
+- **Project Description**: This dashboard presents a demographic analysis of global population data by country for the year 2025. It covers population trends, age distributions, and projections across regions and countries.
+- **Key Features**:
+  - Interactive visualizations for global population data
+  - Projections for age distribution and population trends in 2025
+  - KPIs like population growth, median age, and age distribution by region
+- **Files**:
+  - `World_Population_Analysis_by_Country_2025_Demographics_Dashboard.twbx` – The Tableau workbook file
+  - `README.md` – Project description
+  - `/assets/` – Screenshots and images of the dashboard
+    - `dashboard-overview.png` – Full dashboard overview
+    - `population-trend.gif` – GIF showing population trends over time
+
 ---
 
-## 📁 Folder Structure
-
-```plaintext
 /Tableau_Projects/
 │
 ├── 1_Sample_Superstore_US_Data_Analysis_Dashboard/
@@ -50,6 +60,14 @@ Welcome to the **Tableau Projects** folder. This collection features various das
 │   └── /assets/                                                   # Folder for images and screenshots
 │       ├── dashboard-overview.png                                  # Screenshot of the dashboard
 │       └── kpi-interaction.gif                                     # GIF showing KPI interactivity
+│
+├── 3_WorldPopulationAnalysis_by_Country2025_DemographicsDashboard/
+│   ├── World_Population_Analysis_by_Country_2025_Demographics_Dashboard.twbx   # Tableau workbook file
+│   ├── README.md                                                       # Project-specific README
+│   └── /assets/                                                        # Folder for images and screenshots
+│       ├── dashboard-overview.png                                        # Screenshot of the dashboard
+│       └── population-trends.gif                                         # GIF showing population trends
+
 
 🚀 How to Use
 1. Clone the repository:
