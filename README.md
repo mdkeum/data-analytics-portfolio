@@ -43,10 +43,15 @@ This folder includes my Tableau projects, showcasing the use of Tableau's intera
 
 ## 🖼️ Project Previews
 ### Power BI Project Preview
-![Power BI Dashboard Preview](PowerBi_Projects/US_Beverage_Sales_Dashboard/assets/dashboard-overview.png)
+![Project-1 Preview](https://github.com/mdkeum/data-analytics-portfolio/blob/main/Power_BI_Projects/1_Global_Chocolate_Factory_Sales_Dashboard/assets/PowerBi_Project-01.PNG)
+![Project-2 Preview](https://github.com/mdkeum/data-analytics-portfolio/blob/main/Power_BI_Projects/2_US_Fictitious_Beverage_Brand_Inreractive_Sales_Dashboard_with_KPI/assets/powerBi_Project-02.PNG)
+![Project-3 Preview](https://github.com/mdkeum/data-analytics-portfolio/blob/main/Power_BI_Projects/3_Chocolate_Factory_Data_Analysis_Dashboard/assets/PowerBi_Project-03.PNG)
+![Project-4 Preview](https://github.com/mdkeum/data-analytics-portfolio/blob/main/Power_BI_Projects/4_2025_Estimated_Population_by_Country_Dashboard/assets/PowerBi_Project-04.PNG)
 
 ### Tableau Project Preview
-![Tableau Dashboard Preview](Tableau_Projects/Global_Superstore_Dashboard/assets/dashboard-preview.png)
+![Project-1 Preview](https://github.com/mdkeum/data-analytics-portfolio/blob/main/Tableau_Projects/1_Sample_Superstore_US_Data_Analysis_Dashboard/assets/Tableau_Project-01_Dashboard.PNG)
+![Project-2 Preview](https://github.com/mdkeum/data-analytics-portfolio/blob/main/Tableau_Projects/2_Sample_Superstore_US_Data_Analysis_with_Dashboard_and_Story/assets/Tableau_Project-02_Dashboard.PNG)
+![Project-3 Preview](https://github.com/mdkeum/data-analytics-portfolio/blob/main/Tableau_Projects/3_WorldPopulationAnalysis_by_Country2025_DemographicsDashboard/assets/Tableau_Project-03_Dashboard.PNG)
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
