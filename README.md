@@ -12,16 +12,16 @@ In this folder, you will find my Power BI projects, which focus on creating inte
   - Interactive visuals with month, product, and region-based filters.
   - Key KPIs: Revenue, Average Price per Unit, and Units Sold.
 
-> For more Power BI projects, visit the **[Power BI Projects folder](Power_BI_Projects)**.
+> For more Power BI projects, visit the **[Power BI Projects folder]( https://github.com/mdkeum/data-analytics-portfolio/tree/main/Power_BI_Projects)**.
 
 ### 🔹 **Tableau Projects**
 This folder includes my Tableau projects, showcasing the use of Tableau's interactive features, powerful visualizations, and storytelling capabilities.
 
-- **[Global Superstore Dashboard (Tableau)](Tableau_Projects/Global_Superstore_Dashboard)**
+- **[Global Superstore Dashboard (Tableau)]([Tableau_Projects/Global_Superstore_Dashboard])**
   - Provides insights into the sales, profit, and performance of a global retail chain.
   - Visualizes trends across various regions, product categories, and customer segments.
 
-> For more Tableau projects, visit the **[Tableau Projects folder](Tableau_Projects)**.
+> For more Tableau projects, visit the **[Tableau Projects folder](https://github.com/mdkeum/data-analytics-portfolio/tree/main/Tableau_Projects)**.
 
 ## 🛠 Tools & Technologies Used
 - **Power BI**
